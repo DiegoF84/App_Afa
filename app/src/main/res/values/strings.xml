@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">App_Afa</string>
+    <string name="title_login">titulo_login</string>
+    <string name="HintEmail">Email</string>
+    <string name="HintPassword">Password</string>
+    <string name="textregister">RegistroTexto</string>
+    <string name="Register">Register</string>
+    <string name="registro">Registro</string>
+    <string name="Info_Registro">info_registro</string>
+    <string name="Tit_Mail">titulomail</string>
+    <string name="password">Password</string>
+    <string name="PasswordCreate">Crearpassword</string>
+    <string name="createAccount">Crearcuenta</string>
+    <string name="TextCheck">Chequeo</string>
+    <string name="TextRegister">RegistroTXT</string>
+    <string name="Log_in_Link">Login</string>
 </resources>
